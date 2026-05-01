@@ -8,4 +8,6 @@ Gościu ten inwestuje w spółki: ORLEN, LPP, mBank, Cyfrowy Polsat, oraz Budime
 
 Ten gościu trzyma portfel do 31 grudnia 2025, bo ma wybitnie silną psychikę.
 
+
+
 Spoiler: konkluzja jest tu mało konkluzywna, ale nie zawsze chodzi o cel lecz o podróż cnie
