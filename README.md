@@ -1,13 +1,5 @@
-To jest projekt.
+Ten miniprojekt polega na stworzeniu portfela rynkowego z akcji pięciu polskich spółek - ORLENu, LPP, mBanku, Cyfrowego Polsatu, oraz Budimexu. Dane wejściowe są zebrane na podstawie danych historycznych cen akcji z przedziału czasowego 01-01-2011 do 01-01-2020. 
+Celem zadania jest stresstesting tak ułożonego portfela i zbadanie jego reakcji na wydarzenia z lat 2020-2025. 
+Porównanie odbywa się z portfelami o minimalnej wariancji oraz o jednolitych wagach.
 
-Tu buduję portfele rynkowy, o minimalnej wariancji, oraz o równych wagach - na podstawie danych z lat 2011-2019.
-
-Tu wcielam się w rolę gościa który wpłaca 10 000 złotych dnia 1 stycznia 2020 roku, bo jeszcze nie wie że świat za chwilę na nowo oszaleje.
-
-Gościu ten inwestuje w spółki: ORLEN, LPP, mBank, Cyfrowy Polsat, oraz Budimex. Typo ten robi to dlatego, bo każda z tych spółek zakończyła upływającą dekadę na plusie.
-
-Ten gościu trzyma portfel do 31 grudnia 2025, bo ma wybitnie silną psychikę.
-
-
-
-Spoiler: konkluzja jest tu mało konkluzywna, ale nie zawsze chodzi o cel lecz o podróż cnie
+Konkluzja: Wszystkie trzy portfele zachowują się bardzo podobnie przez cały okres badania, ale portfel rynkowy jest (słusznie) najbardziej wrażliwy na wahania rynku.
